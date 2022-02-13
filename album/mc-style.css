@@ -93,7 +93,7 @@ body {
 	top:0px;
 	text-align: center;
 	height: 20px;
-	line-height: 40px;
+	line-height: 60px;
 	background: linear-gradient(135deg,navy,lightblue,navy,purple,pink,purple);
 }
 .player .player-list .toggle-list i.fa {
