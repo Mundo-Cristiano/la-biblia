@@ -81,7 +81,7 @@ body::before{
 }
 
 ul {
-    border: solid rgb(233, 78, 233);
+    border: solid white 1px;
     border-radius: 5px;
     padding: 5px;
     background-color: rgba(0, 0, 0, 0.2);
