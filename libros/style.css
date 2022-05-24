@@ -41,10 +41,12 @@ body::before{
 .titulo {
     font-size: 3vh;
     text-align: center;
-    color: white;
+    color: rgb(0, 0, 0);
     padding: 1vh;
     margin: 1vh;
-    background-color: rgba(0, 0, 0, 0.2);
+    background-color: rgb(0, 191, 255);
+    position:sticky;
+    top: 1vh;
 
 }
 
@@ -59,6 +61,9 @@ body::before{
 ul {
     padding: 0vh;
     background-color: rgba(0, 0, 0, 0.2);
+    position:sticky;
+    top: 1vh;
+    z-index: -1;
 }
 
 a {
@@ -81,3 +86,5 @@ a {
 }
 
 
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master_2.m3u8
