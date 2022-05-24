@@ -35,12 +35,12 @@ _(".player .player-list .list").innerHTML = (songList.map(function(song,songInde
 		<div class="item" songIndex="${songIndex}">
 			<div class="thumbnail">
 				<img src="./cover/${song.thumbnail}">
-			</div>
+			    </div>
 			<div class="details">
 				<h2>${song.songname}</h2>
 				<p>${song.artistname}</p>
-			</div>
-		</div>
+			    </div>
+		    </div>
 	`;
 }).join(""));
  
